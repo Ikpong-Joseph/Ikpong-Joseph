@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Joseph 🚀
 
-<!--
-**Ikpong-Joseph/Ikpong-Joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔒 I'm committed to learning secure solidity smart contract development, python and cybersecurity in my quest to contributing to a secure digital economy and being a person of value and competence.
 
-Here are some ideas to get you started:
+## ✍️ Writing Projects
+- **[How-to guide for a FinTech Investment app](https://docs.google.com/document/d/1iT1Fm6-yIimAqvOzaV03OoDxvpsob40KpEPHoteG_B4/edit?usp=sharing)**
+- **[Bounty writer for Gateway Protocol - A data privacy service](https://x.com/Joseph__hpesoJ/status/1798305689041080683)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I Utilize
+- Remix IDE
+- Foundry
+- VS Code
+- Linux
+- AI
+- Virtual Machine (Oracle VM Virtual Box)
+
+## 💻 Languages
+- Solidity
+- Python
+
+## 🤝 Connect with Me
+- **[Email](ikpongjos@gmail.com)**
+- **[Discord](joseph__hpesoj)**
+- **[X](https://x.com/Joseph__hpesoJ?t=vrUuLS2xBCvA3TPiZa39Rg&s=09)**
+
