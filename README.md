@@ -5,6 +5,7 @@
 ## ✍️ Writing Projects
 - **[How-to guide for a FinTech Investment app](https://docs.google.com/document/d/1iT1Fm6-yIimAqvOzaV03OoDxvpsob40KpEPHoteG_B4/edit?usp=sharing)**
 - **[Bounty writer for Gateway Protocol - A data privacy service](https://x.com/Joseph__hpesoJ/status/1798305689041080683)**
+- **[NO `.env` NEEDED FOR RAW PRIVATE KEYS AGAIN: How to use encrypted Private Key in your Foundry codebase](https://docs.google.com/document/d/14noa8fgsgGOzrss9jAzLi6VfJTS2KNpT_eUwGDvsowg/edit?usp=sharing)**
 
 ## 🛠️ Tools I Utilize
 - Remix IDE
